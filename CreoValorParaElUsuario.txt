@@ -2,4 +2,4 @@ Cumpli con la fuciones que me son asignadas, pensando en la utidad que le dan
 las personas con las que trabajo o el usuario final de una aplicación
 
 Pienso en el usuario para poder valor a la funcionalidad desarrollada.
-las personas con las que trabajo o el usuario final de una aplicación. Hago que todo sea más simple y mejor para el usuario final.
+Hago que todo sea más simple y mejor para el usuario final.

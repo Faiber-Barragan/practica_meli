@@ -1,4 +1,8 @@
 Cumpli con la fuciones que me son asignadas, pensando en la utidad que le dan
+<<<<<<< HEAD
 las personas con las que trabajo o el usuario final de una aplicación
 
 Pienso en el usuario para poder valor a la funcionalidad desarrollada.
+=======
+las personas con las que trabajo o el usuario final de una aplicación. Hago que todo sea más simple y mejor para el usuario final.
+>>>>>>> 90205ee8f8537fa6319c480fd319ec1dcad9a287
